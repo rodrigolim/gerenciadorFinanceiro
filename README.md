@@ -6,12 +6,6 @@ Sistema para Gestão Financeira Online feito em Javascript.
 ## Pré-requisitos
 NPM, MongoDB
 
-## Enviroment variables
-* PORT
-* MONGODB_USER
-* MONGODB_PASSWORD
-* MONGODB_DATABASE
-
 ## Instalação
 - inicie o serviço do mongoDB em um terminal:
 ```
